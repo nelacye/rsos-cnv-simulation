@@ -1,0 +1,2 @@
+evaluation_label,calibration_n_embryos,calibration_n_normal,threshold_mean_cutoff,threshold_sum_cutoff,bayes_mean_cutoff,bayes_sum_cutoff
+out-of-sample evaluation,750,281,0.3396889024749591,7.4731558544491,0.2081175026984113,4.578585059365048

@@ -1,0 +1,9 @@
+mode,truth_binary,embryo_call,n
+strict,abnormal,abnormal,12
+strict,abnormal,normal,7
+strict,normal,abnormal,4
+strict,normal,normal,3
+inclusive,abnormal,abnormal,17
+inclusive,abnormal,normal,7
+inclusive,normal,abnormal,4
+inclusive,normal,normal,3

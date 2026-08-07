@@ -1,0 +1,3 @@
+mode,quantile_cutoff,chromosome_abs_cutoff,n_embryos,sensitivity,specificity,accuracy,true_positive,true_negative,false_positive,false_negative
+strict,0.95,0.44356891552242833,26,0.631578947368421,0.42857142857142855,0.5769230769230769,12,3,4,7
+inclusive,0.95,0.44356891552242833,31,0.7083333333333334,0.42857142857142855,0.6451612903225806,17,3,4,7

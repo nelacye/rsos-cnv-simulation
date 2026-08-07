@@ -1,0 +1,7 @@
+EmbryoStatus,embryo_call,n
+affected,abnormal,12
+affected,normal,7
+carrier,abnormal,4
+inconclusive,abnormal,1
+unaffected,abnormal,4
+unaffected,normal,3

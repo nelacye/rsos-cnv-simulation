@@ -1,0 +1,5 @@
+mkdir -p figures
+touch figures/.gitkeep
+
+mkdir -p results
+touch results/.gitkeep

@@ -1,0 +1,5 @@
+EmbryoStatus,clinical_group,strict_truth,inclusive_truth
+affected,clearly_abnormal,abnormal,abnormal
+unaffected,clearly_normal,normal,normal
+carrier,ambiguous_intermediate,NA,abnormal
+inconclusive,ambiguous_intermediate,NA,abnormal

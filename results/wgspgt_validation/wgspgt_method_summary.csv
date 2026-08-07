@@ -1,0 +1,5 @@
+Method,EmbryoStatus,n_embryos,mean_depth,mean_breadth,mean_abs_log2r,embryos_with_any_abnormal_threshold
+WGS,affected,19,10.148768421052631,89.04947368421053,3.466064430160088,19
+WGS,carrier,4,9.4503,89.47,2.2861770298854167,4
+WGS,inconclusive,1,9.7503,68.04,13.739034481791666,1
+WGS,unaffected,7,10.879014285714286,89.26142857142857,2.5704476729821426,7

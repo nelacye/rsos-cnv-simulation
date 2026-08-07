@@ -1,0 +1,5 @@
+Method,EmbryoStatus,threshold_call,n_chromosomes
+WGS,affected,aneuploid,456
+WGS,carrier,aneuploid,96
+WGS,inconclusive,aneuploid,24
+WGS,unaffected,aneuploid,168
